@@ -8,4 +8,4 @@ New paragraphs to be added here!
 #New new chapter
 
 #local development
-Testing branches
+Main branches
