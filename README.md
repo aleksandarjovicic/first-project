@@ -9,3 +9,6 @@ New paragraphs to be added here!
 
 #local development
 Testing branches
+
+#Quick test
+New quick tests added
