@@ -11,4 +11,4 @@ New paragraphs to be added here!
 Testing branches
 
 #Quick test
-New quick tests added
+New quick tests
